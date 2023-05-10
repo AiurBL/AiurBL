@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Aiur - Data Analyst with over three years of professional experience in analytics and reporting. With a Bachelor's in Finance and a Master's in Management, My specialization in SQL, MS Excel, and other BI instruments. Currently, working on learning Python.
 
 <!--
 **AiurBL/AiurBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
