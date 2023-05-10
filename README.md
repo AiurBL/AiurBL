@@ -1,5 +1,7 @@
-### Hi there 👋 I am Aiur - Data Analyst with over three years of professional experience in analytics and reporting. With a Bachelor's in Finance and a Master's in Management, My specialization in SQL, MS Excel, and other BI instruments. Currently, working on learning Python.
-
+<div id="header" align="center">
+  <h1>Hi there 👋 I am Aiur </h1>
+  <h3>Data Analyst from Toronto with over three years of professional experience in analytics and reporting</h3>
+</div>
 <!--
 **AiurBL/AiurBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
