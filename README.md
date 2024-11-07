@@ -6,12 +6,7 @@
     <img src="https://img.shields.io/badge/LinkledIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
 <!--
-**AiurBL/AiurBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Here are some ideas to get you started:-->
+**AiurBL/AiurBL**
 
 About me
 - 🌱 I’m currently working using Python
