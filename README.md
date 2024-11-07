@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/bagleev/">
     <img src="https://img.shields.io/badge/LinkledIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
-<!--
-**AiurBL/AiurBL**
+
 
 About me
 - 🌱 I’m currently working using Python
